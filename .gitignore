@@ -1,0 +1,10 @@
+# Build artifacts
+*.o
+proxy
+
+# Runtime directories
+cache/
+blocklist/
+
+# OS junk
+.DS_Store
